@@ -26,4 +26,4 @@
 
 ## Installation
 
-Download the latest universal binary from the [releases page](https://github.com/USERNAME/NodeMacUniversal/releases)
+Download the latest universal binary from the [releases page](https://github.com/insanerest/NodeMacUniversal/releases)
