@@ -1,9 +1,6 @@
 #!/bin/bash
 set -e
 
-echo "DEBUG: Number of args = $#"
-echo "DEBUG: Arg1 = '$1', Arg2 = '$2'"
-
 # Usage check
 if [ $# -ne 2 ]; then
   echo "Usage: $0 <version> <directory>"
@@ -32,3 +29,13 @@ gh release create "$TAG" "${FILES[@]}" \
   --prerelease=false
 
 echo "Release $TAG created successfully!"
+
+# Append version to released.txt
+echo "$VERSION" >> released.txt
+
+# Commit and push the update
+git add released.txt
+git commit -m "[Automated] Updated released.txt"
+git push
+
+echo "released.txt updated and changes pushed."
