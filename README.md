@@ -24,6 +24,12 @@
 | 24.x            | ✅ Yes     |
 | 25.x            | ✅ Yes     |
 
-## Installation
+> [!NOTE]
+> I am actively working on adding new Node.js versions
 
-Download the latest universal binary from the [releases page](https://github.com/insanerest/NodeMacUniversal/releases)
+
+
+**Please help me and star this repo**
+
+Thank you
+
