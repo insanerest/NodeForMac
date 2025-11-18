@@ -26,10 +26,6 @@
 
 
 ##
-> [!IMPORTANT]
-> For some reason, https://github.com/insanerest/NodeMacUniversal/releases this link wont work.
->
-> Please use [https://github.com/insanerest/NodeMacUniversal/releases?page=2](https://github.com/insanerest/NodeMacUniversal/releases?page=2) instead 
 
 
 
