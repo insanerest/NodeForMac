@@ -1,11 +1,11 @@
-# NodeMacUniversal
+# NodeForMac
 
 ![Node.js](https://img.shields.io/badge/node-%3E=20-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Downloads](https://img.shields.io/github/downloads/insanerest/NodeMacUniversal/total?random=0)
+![Downloads](https://img.shields.io/github/downloads/insanerest/NodeForMac/total?random=0)
 
-**NodeMacUniversal** is a simple utility that combines Node.js binaries for both **ARM** and **x64** macOS architectures into a single universal binary.
+**NodeForMac** is a simple utility that combines Node.js binaries for both **ARM** and **x64** macOS architectures into a single universal binary.
 
 ## Features
 
