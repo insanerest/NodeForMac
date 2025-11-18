@@ -24,6 +24,15 @@
 | 24.x            | ✅ Yes     |
 | 25.x            | ✅ Yes     |
 
+
+##
+> [!IMPORTANT]
+> For some reason, https://github.com/insanerest/NodeMacUniversal/releases this link wont work.
+>
+> Please use [https://github.com/insanerest/NodeMacUniversal/releases?page=2](https://github.com/insanerest/NodeMacUniversal/releases?page=2) instead 
+
+
+
 > [!NOTE]
 > I am actively working on adding new Node.js versions
 
